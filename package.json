@@ -1,0 +1,14 @@
+{
+  "name": "mi-sitio-web",
+  "version": "1.0.0",
+  "description": "Un sitio web estático de ejemplo",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+}
